@@ -1,4 +1,4 @@
-''Allows user to save read-only excel files using XCOPY
+''Allows user to save read-only excel files (in this case a xlam) using XCOPY and archives previous version
 
 Option Explicit
 Sub SaveCopy():
